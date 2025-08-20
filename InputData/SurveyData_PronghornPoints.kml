@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SurveyData_PronghornPoints" id="SurveyData_PronghornPoints">
+	<SimpleField name="siteID" type="string"></SimpleField>
+	<SimpleField name="groupSize" type="float"></SimpleField>
+</Schema>
+<Folder><name>SurveyData_PronghornPoints</name>
+  <Placemark id="SurveyData_PronghornPoints.1">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.689491442219,42.4947214627908</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.2">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.689586497354,42.4895964869804</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.3">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.689484940931,42.4802331961214</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.4">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.689343344954,42.4744598884838</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.5">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.689508376838,42.4711582380476</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.6">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">19</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.690293710452,42.4394550555607</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.7">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">20</SimpleData>
+		<SimpleData name="groupSize">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.631536141583,42.4044881845162</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.8">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">20</SimpleData>
+		<SimpleData name="groupSize">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.634877632062,42.4098465138744</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.9">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">20</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.637322476663,42.4161081668504</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.10">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">20</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.63799721704,42.4370030747453</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.11">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.572842202531,42.6382500759051</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.12">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.573787695864,42.5918269627971</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.13">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.573947757037,42.5859319910063</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.14">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.574009454706,42.5830036715754</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.15">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.57401947345,42.5813170127585</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.16">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.572533653284,42.5109739950089</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.17">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.57529614216,42.4294243884533</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.18">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.576808047198,42.4035361839046</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.19">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">21</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.577538135284,42.3934345683492</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.20">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.524734748209,42.4127141546529</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.21">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.524769718491,42.415265809746</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.22">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.52432283751,42.4358257120188</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.23">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.524104417072,42.4442906715686</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.24">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.518036305563,42.5918166191413</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.25">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">22</SimpleData>
+		<SimpleData name="groupSize">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.517800961656,42.6230614732358</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.26">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.45982666356,42.5922262604575</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.27">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.458352109893,42.5569130815774</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.28">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.458440834786,42.5215632457332</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.29">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.458662633611,42.5090199718042</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.30">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.459721422624,42.4647985162333</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.31">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.460943317036,42.440501969435</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.32">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.461992066849,42.3997154978509</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.33">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.462405567518,42.3833322428226</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.34">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.462693929583,42.3798389274045</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.35">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.462890704037,42.3694956431125</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.36">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.462899052515,42.3681023162747</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.37">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.463225811708,42.3587256949677</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.38">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.463500883701,42.3513623973657</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.39">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.463524356131,42.3387174559913</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.40">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">23</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.464644433322,42.3282358446179</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.41">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">24</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407185949161,42.3710052978219</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.42">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">24</SimpleData>
+		<SimpleData name="groupSize">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407209255692,42.3733652870336</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.43">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">24</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.406995784336,42.3865618912905</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.44">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">24</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.404833106035,42.4849214225597</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.45">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">25</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.346124711314,42.5244525507807</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.46">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">25</SimpleData>
+		<SimpleData name="groupSize">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.346920982322,42.4063531034066</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.47">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">25</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.34764781281,42.3891081877581</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.48">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">25</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.347909494913,42.3868715330392</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.49">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">25</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.348022838725,42.3855565398197</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.50">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">26</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.29187066628,42.4575342018427</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.51">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">26</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.291150530004,42.4722874623421</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.52">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">26</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.290993841823,42.4747524499544</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.53">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">27</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.231341054159,42.4620488192574</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.54">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">27</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.232144448397,42.4538705287393</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.55">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">28</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.175223081414,42.4550051855002</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.56">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">28</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.175248060392,42.4568718436237</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.57">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">28</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.175757680033,42.4904300237234</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.58">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">28</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.175714302691,42.4946383372042</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.59">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">29</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.123576062219,42.4998230050219</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.60">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">30</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.950116515555,42.3977191367831</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.61">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">30</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.951422079857,42.3396327493398</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.62">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">30</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.951488784715,42.3357677678004</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.63">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">31</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.012432248429,42.2810317094376</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.64">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">31</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.009301576541,42.3550896787099</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.65">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">31</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.007332860317,42.3978011344109</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.66">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">32</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.061162197651,42.4409929131025</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.67">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">32</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.061248908905,42.4365262677894</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.68">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">32</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.062426513974,42.344425037787</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.69">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">32</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.063503922025,42.2708987204191</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.70">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.123170260936,42.2644607661149</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.71">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.122545017668,42.2893506464915</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.72">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.121673287667,42.2981289338098</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.73">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.121501612489,42.2994855931479</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.74">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.121278268099,42.3012489169545</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.75">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.12118475286,42.3186205021327</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.76">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.121454720428,42.3207854936304</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.77">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.122189639661,42.3259721404464</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.78">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.121864512811,42.3389154115603</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.79">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.12095606814,42.352292010558</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.80">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.120926054246,42.3536903371989</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.81">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">33</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.122928626162,42.4183650475692</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.82">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.169501967868,42.422148637965</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.83">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.171603606915,42.4179370033344</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.84">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.174476908651,42.4116087164558</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.85">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.175211906185,42.4094687307654</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.86">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.176095241492,42.4064387500955</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.87">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.176633584753,42.4037820989802</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.88">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.177265311229,42.3961921380476</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.89">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.17707039365,42.3891638362768</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.90">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.176577540314,42.346107367102</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.91">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.179359802472,42.281601017057</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.92">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">34</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.180553466771,42.246816185947</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.93">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.237545293542,42.2039083893447</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.94">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.237913137323,42.2482865186673</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.95">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.23847140279,42.252803167662</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.96">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.238997992926,42.2582248122638</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.97">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239431215781,42.2670964402805</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.98">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239377745206,42.2800080466318</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.99">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239352711227,42.2832413647915</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.100">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239311020943,42.2855663537396</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.101">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239245983162,42.2892796694307</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.102">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.239187622162,42.2920329896223</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.103">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.238640512792,42.3348044542601</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.104">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.237873664236,42.3540893600644</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.105">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.237293594458,42.3623993179875</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.106">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.237141913828,42.3641759754934</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.107">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.23699356647,42.3659476330423</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.108">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.236808553659,42.3677242903498</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.109">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.236286866644,42.3712759374031</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.110">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.235323460862,42.3810558862081</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.111">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.235268426523,42.3844042036485</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.112">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.235240030451,42.3902891761213</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.113">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">35</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.23541660739,42.3980074746236</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.114">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292694960704,42.3667879614841</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.115">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292468360389,42.3614113184235</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.116">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292453456149,42.3526546923211</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.117">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.29250031817,42.3345331100623</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.118">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292498696427,42.3304031292249</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.119">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292462085967,42.3253448191541</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.120">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292547102699,42.3235331614058</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.121">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292572242573,42.3105682217394</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.122">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292523925867,42.3091898945153</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.123">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.29249896675,42.3055015781535</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.124">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292282442456,42.2930649679205</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.125">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.29220579743,42.2913133089263</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.126">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.291649232679,42.2836850076752</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.127">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.291892641864,42.2759083785585</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.128">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.291947654389,42.2745767184013</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.129">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292414389884,42.2667334242599</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.130">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.292439403188,42.2654250971483</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.131">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">36</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.293144767822,42.2294719348856</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.132">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.353474064766,42.2560621729649</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.133">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.353217311164,42.264855463998</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.134">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.353030603538,42.269205442713</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.135">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.353385352622,42.291092010062</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.136">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.351601837616,42.3133818960057</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.137">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.351465159767,42.3148385550973</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.138">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.351081787626,42.3196051973594</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.139">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.35084008888,42.3233068454108</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.140">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">37</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.350651732325,42.3260284983262</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.141">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407756553407,42.3142772306313</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.142">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407636698381,42.3014522892875</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.143">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407748435622,42.2946706546955</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.144">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.407678635935,42.2766290711359</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.145">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.408568767382,42.2618341450112</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.146">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.409493792864,42.2565958415199</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.147">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.409435515947,42.2516291974924</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.148">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.409395553175,42.2483558790701</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.149">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.409442258655,42.2446642297747</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.150">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">38</SimpleData>
+		<SimpleData name="groupSize">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.409796043445,42.2022760947819</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.151">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.465467148599,42.2305996344117</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.152">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.466735069451,42.2640794873337</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.153">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.466730048898,42.2659594786111</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.154">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.466788303582,42.2729094468319</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.155">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.466773158528,42.2861043857306</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.156">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.466963115419,42.2894160382406</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.157">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">39</SimpleData>
+		<SimpleData name="groupSize">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.467416391245,42.2932076901336</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.158">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.517199084486,42.3461460826628</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.159">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.516412478778,42.3431110918677</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.160">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.515774226064,42.337846112283</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.161">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.520467630503,42.3168612379413</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.162">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.521534383941,42.3057362958524</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.163">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.521511096065,42.3017163142758</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.164">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.521624724587,42.2747681060901</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.165">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">40</SimpleData>
+		<SimpleData name="groupSize">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.521663239595,42.2582631825434</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.166">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">57</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.580137588608,42.2853384163526</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.167">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">57</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.579667460826,42.2982333539838</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.168">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.629455172149,42.3490134272713</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.169">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.630188536428,42.3440117881932</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.170">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.63284034583,42.32318023393</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.171">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.632860379675,42.3201085815394</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.172">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.633029004518,42.2936453711674</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.173">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">58</SimpleData>
+		<SimpleData name="groupSize">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.633517467887,42.2805604344689</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.174">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.685354353353,42.2504775611391</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.175">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.69451135752,42.3402088719467</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.176">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.69463957996,42.3496088294937</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.177">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.694172889592,42.353123810411</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.178">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.693594502304,42.3596487767808</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.179">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.693436145901,42.3621670975386</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.180">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.693064419702,42.3685520658393</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.181">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.69301772432,42.3712270532383</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.182">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">59</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.693011039666,42.3728337124697</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.183">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">60</SimpleData>
+		<SimpleData name="groupSize">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.749407561411,42.3607507872546</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.184">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">60</SimpleData>
+		<SimpleData name="groupSize">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.747709509406,42.3412008664619</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.185">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">60</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.747204557478,42.338509209002</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.186">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">60</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.743924891524,42.3190926110313</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.187">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">60</SimpleData>
+		<SimpleData name="groupSize">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.746010400382,42.2679478591107</coordinates></Point>
+  </Placemark>
+  <Placemark id="SurveyData_PronghornPoints.188">
+	<ExtendedData><SchemaData schemaUrl="#SurveyData_PronghornPoints">
+		<SimpleData name="siteID">61</SimpleData>
+		<SimpleData name="groupSize">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.806817172547,42.2212101218124</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
