@@ -206,7 +206,7 @@ dotchart(p[ord, 1], pch = 19,
 dev.off()
 
 
-# Partial-effects plots
+# Partial-effects (or partial-dependency) plots
 png(file.path("Output",
               "RF_PartialEffects.png"),
     width = 15, height = 8, units = "in", res = 600)
