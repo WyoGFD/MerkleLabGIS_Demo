@@ -117,6 +117,6 @@ ggplot() +
   theme_bw()
 ggsave(file.path("Output",
                  "Map.png"),
-       width = 6, height = 6, units = "in", dpi = 600)
+       width = 6, height = 4, units = "in", dpi = 600)
 
 # END
